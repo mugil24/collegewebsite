@@ -1,0 +1,39 @@
+.department-table-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .department-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .department-table th,
+  .department-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .department-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .department-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .department-table tr:hover {
+    background-color: #ddd;
+  }
+  
+  .department-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: rgba(111, 226, 232, 0.6);
+    color: white;
+  }
+  

@@ -1,0 +1,50 @@
+
+.container {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+  }
+  
+
+  .header {
+    background-color: rgba(111, 226, 232, 0.6);;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+ 
+  .content {
+    margin: 20px 0;
+  }
+  
+  .content section {
+    margin-bottom: 20px;
+  }
+  
+  .content h2 {
+    color: rgba(111, 226, 232, 0.6);;
+    border-bottom: 2px solid rgba(111, 226, 232, 0.6);;
+    padding-bottom: 5px;
+  }
+  
+  .content p,
+  .content ul {
+    margin: 10px 0;
+    line-height: 1.6;
+  }
+  
+  .content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .content ul li {
+    margin-bottom: 5px;
+  }
+  
