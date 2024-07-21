@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mugil24.github.io/collegeweb",
+  "homepage": "https://mugil24.github.io/collegewebsite",
   "scripts": {
   "build": "vite build",
   "predeploy": "npm run build",
