@@ -1,16 +1,16 @@
 import React, {useState,useEffect} from 'react'
 import './EventComponent.css'
-import img1 from '../../assets/image1.webp'
+import img1 from '../../assets/image1.jpeg'
 import img2 from '../../assets/image2.jpeg'
-import img3 from '../../assets/image3.jpeg'
-import img4 from '../../assets/image4.png'
+import img3 from '../../assets/image3.jpg'
+import img4 from '../../assets/image4.jpg'
 
 
 const events = [
-  { name: 'Tech Conference 2024', image: img1 },
+  { name: 'yukthi ctf', image: img1 },
   { name: 'Workshop on AI', image: img2 },
-  { name: 'Robotics Expo', image: img3 },
-  { name: 'Coding Bootcamp', image: img4 },
+  { name: 'Hackthon', image: img3 },
+  { name: 'Birynai Festival', image: img4 },
 ];
 
 const EventComponent = () => {
